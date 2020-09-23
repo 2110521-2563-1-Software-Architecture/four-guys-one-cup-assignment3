@@ -1,6 +1,6 @@
+
 import wx
 from mvvm.views.main_view import MainView
-
 
 class MvvmNoteApplication:
 
